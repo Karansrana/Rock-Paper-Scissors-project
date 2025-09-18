@@ -22,9 +22,6 @@ It then compares both choices and declares a winner!
 
 ## How to Run
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/Rock-Paper-Scissors-project.git
-
 2. Run the script
    ```bash
    python rockPaperScissors.py
